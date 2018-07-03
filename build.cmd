@@ -1,0 +1,1 @@
+docker build -t pallid/now-for-oscript:dev .
